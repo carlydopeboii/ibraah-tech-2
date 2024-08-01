@@ -1,5 +1,5 @@
 {
-  "name": "Bmw-PairCode",
+  "name": "Shadow Md-PairCode",
   "version": "1.0.0",
   "description": "Connect Whatsapp With Baileys Code Pairing",
   "main": "index.js",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devibraah/ibraah-tech-2.git"
+    "url": "git+https://github.com/devibraah/carlydopeboii.git"
   },
   "author": "devibraah",
   "license": "ISC",
