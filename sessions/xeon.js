@@ -1,3 +1,3 @@
 {
-  "Name": "Bmw-PairCode"
+  "Name": "Shadow-Md-PairCode"
 }
