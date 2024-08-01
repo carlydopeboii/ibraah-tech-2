@@ -87,7 +87,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./sessions`)
         const { connection, lastDisconnect } = s
         if (connection == "open") {
             await delay(1000 * 10)
-            await XeonBotInc.sendMessage(XeonBotInc.user.id, { text: `🪀Support/Contact Developer\n\n\n⎆Donate: https://telegra.ph/file/0c225f7da5616cdcbec80.jpg\n\n⎆YouTube: https://youtube.com/ibrahimaitech\n\n⎆Telegram Channel: https://t.me/ibrahimtechai\n\n⎆WhatsApp Channel: https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y\n\n⎆WhatsApp Pm: Wa.me/25471077266\n\n⎆Instagram: https://instagram.com/ibrahim_adams_official\n\n⎆GitHub: https://github.com/ibrahimaitech/\n\n⎆Blog: https://dreamguyxeonfiles.blogspot.com/2022/05/bots%20whatsapp%20mods.html?m=1\n\n\n` });
+            await XeonBotInc.sendMessage(XeonBotInc.user.id, { text: `🪀Support/Contact Developer\n\n\n⎆Donate: https://telegra.ph/file/a3604c4a1111748721617.jpg\n\n⎆YouTube: www.youtube.com/@Shadow_wrld-f9z\n\n⎆WhatsApp Pm: Wa.me/18098042883\n\n⎆Instagram: https://instagram.com/dopeboiicarly\n\n⎆GitHub: https://github.com/carlydopeboii/\n\n⎆Blog: https://dreamguyxeonfiles.blogspot.com/2022/05/bots%20whatsapp%20mods.html?m=1\n\n\n` });
             let sessionXeon = fs.readFileSync('./sessions/creds.json');
             await delay(1000 * 2) 
              const xeonses = await  XeonBotInc.sendMessage(XeonBotInc.user.id, { document: sessionXeon, mimetype: `application/json`, fileName: `creds.json` })
@@ -95,9 +95,9 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./sessions`)
 ┌─❖
 │ Hello
 └┬❖  
-┌┤✑  Thanks for using ʙᴍᴡ ᴍᴅ
+┌┤✑  Thanks for using SHADOW MD
 │└────────────┈ ⳹        
-│ > © sɪʀ ɪʙʀᴀʜɪᴍ
+│ > © MR SHADOW-WRLD
 └─────────────────┈ ⳹\n\n ` }, {quoted: xeonses});
               await delay(1000 * 2) 
               process.exit(0)
